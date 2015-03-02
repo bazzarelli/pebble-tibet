@@ -1,0 +1,37 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "RubyFrog",
+    "longName": "Primordial Ah",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/screen_cap.png",
+                "menuIcon": true,
+                "name": "SCREEN_CAP",
+                "type": "png"
+            },
+            {
+                "file": "images/ah_4_pebble.png",
+                "name": "AH_SYMBOL",
+                "type": "png"
+            },
+            {
+                "file": "fonts/DIN Condensed Bold.ttf",
+                "name": "DIN_CONDENSED_34",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Primordial Ah",
+    "uuid": "760760a5-1b2b-4100-9d3e-5021217e26f8",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
